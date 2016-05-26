@@ -57,7 +57,7 @@
   },
   "scripts": {
     "test": "standard",
-    "build": "webpack js/ClientApp.js public/bundle.js"
+    "build": "webpack"
   },
   "homepage": "https://github.com/btholt/complete-intro-to-react#readme"
 }
