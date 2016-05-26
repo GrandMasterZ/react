@@ -55,5 +55,9 @@
   "bugs": {
     "url": "https://github.com/btholt/complete-intro-to-react/issues"
   },
+  "scripts": {
+    "test": "standard",
+    "build": "webpack js/ClientApp.js public/bundle.js"
+  },
   "homepage": "https://github.com/btholt/complete-intro-to-react#readme"
 }
